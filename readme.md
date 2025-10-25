@@ -15,3 +15,5 @@ The transformer circuit is here, it works but it isn't perfect. Bypass capacitor
 
 ## Perfboard support
 The OpenSCAD files in this repository are for a 3D printable shelf to support a perfboard above the rear connectors. This provides space for the extra circuitry needed.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B41FD5UE)
